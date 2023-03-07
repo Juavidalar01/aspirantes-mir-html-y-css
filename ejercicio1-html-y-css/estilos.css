@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(41, 44, 42);
+    background-color: rgb(163, 92, 11);
+    border: 25px solid black;
+    font-size: 25px;
+    }
+h2 {
+    color: rgb(255, 0, 76);
+    background-color: rgb(24, 24, 23);
+    border: 1px solid black;
+    font-size: 20px;
+    }
+h3 {
+    color: rgb(15, 15, 117);
+    background-color: rgb(151, 151, 146);
+     border: 80px solid black;
+    font-size: 80px;
+     } 
+p {
+    color: rgb(255, 0, 221);
+    font-size: 20px
+    }
+ul {
+    color: rgb(214, 188, 188);
+    background-color: rgb(165, 165, 99);
+    border: 1px solid rgb(8, 8, 8);
+    font-size: 20px
+    }
