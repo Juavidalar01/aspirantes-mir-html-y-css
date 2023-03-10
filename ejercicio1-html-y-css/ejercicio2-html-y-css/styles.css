@@ -1,0 +1,28 @@
+*{box-sizing:border-box;}
+
+form{
+    color: white;
+	width:300px;
+	padding:20px;
+	border-radius:20px;
+	margin:auto;
+	background: linear-gradient(#bd09b7, #6b4cf5);
+   
+}
+form label{
+	width:120%;
+	padding: 7px;
+    margin:auto;
+}
+form select{
+    width:100%;
+    margin:auto;
+	padding: 7px;  
+}
+
+form input{
+    width:100%;
+    margin:auto;
+	padding: 7px; 
+}
+
